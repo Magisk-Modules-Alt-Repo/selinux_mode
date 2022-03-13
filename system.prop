@@ -1,0 +1,117 @@
+# Device Info
+ro.product.brand
+ro.product.manufacturer
+ro.product.marketname
+ro.product.model
+ro.product.odm.brand
+ro.product.odm.manufacturer
+ro.product.odm.marketname
+ro.product.odm.model
+ro.product.product.brand
+ro.product.product.manufacturer
+ro.product.product.marketname
+ro.product.product.model
+ro.product.system.brand
+ro.product.system.manufacturer
+ro.product.system.marketname
+ro.product.system.model
+ro.product.system_ext.brand
+ro.product.system_ext.manufacturer
+ro.product.system_ext.marketname
+ro.product.system_ext.model
+ro.product.vendor.brand
+ro.product.vendor.manufacturer
+ro.product.vendor.marketname
+ro.product.vendor.model
+
+# DNS Changer
+net.dns1
+net.dns2
+net.eth0.dns1
+net.eth0.dns2
+net.ppp0.dns1
+net.ppp0.dns2
+net.rmnet0.dns1
+net.rmnet0.dns2
+net.rmnet1.dns1
+net.rmnet1.dns2
+net.pdpbr1.dns1
+net.pdpbr1.dns2
+net.lte.dns1
+net.lte.dns2
+
+# Touch Improvement
+MovementSpeedRatio=0.3
+MultitouchMinDistance=1px
+MultitouchSettleInterval=0.1ms
+QuietInterval=0.1ms
+SurfaceOrientation=0
+TapDragInterval=0.1ms
+TapInterval=0.1ms
+TapSlop=1px
+debug.egl.hw=1
+persist.dev.pm.dyn_samplingrate=1
+persist.device_config.runtime_native.usap_pool_enabled=true
+persist.sys.ui.hw=1
+persist.vendor.qti.inputopts.enable=true
+persist.vendor.qti.inputopts.movetouchslop=0.1
+pm.dexopt.bg-dexopt=speed-profile
+pm.dexopt.shared=speed
+touch.coverage.calibration=box
+touch.deviceType=touchScreen
+touch.distance.calibration=area
+touch.distance.scale=0
+touch.gestureMode=spots
+touch.orientation.calibration=interpolated 
+touch.orientationAware=0
+touch.pressure.calibration=amplitude
+touch.pressure.scale=0
+touch.pressure.scale=0.0001
+touch.size.bias=0
+touch.size.calibration=geometric
+touch.size.isSummed=0
+touch.size.scale=1
+touch.toolSize.areaScale=22
+touch.toolSize.isSummed=0
+video.accelerate.hw=1
+view.scroll_friction=0
+view.scroll_friction=0
+windowsmgr.max_events_per_sec=60
+
+# GPU Rendering and OpenGL ES Version
+debug.hwui.renderer
+ro.opengles.version
+
+# Disable Low RAM Mode
+ro.config.low_ram.threshold_gb=false
+ro.config.low_ram=false
+
+# Memory Management Tweak
+ro.sys.fw.bg_apps_limit=128
+ro.vendor.qti.sys.fw.bg_apps_limit=128
+ro.vendor.qti.sys.fw.bservice_enable=true
+ro.vendor.qti.sys.fw.bservice_age=10000
+ro.vendor.qti.sys.fw.bservice_limit=128
+
+# Add Support for IPV4 and IPV6
+persist.telephony.support.ipv4=1
+persist.telephony.support.ipv6=1
+
+# Increase Network Signal
+persist.cust.tel.adapt=1
+persist.cust.tel.eons=1
+ro.config.combined_signal=true
+ro.config.hw_fast_dormancy=1
+
+# Increase TCP Buffer Size
+net.tcp.buffersize.default=6144,87380,110208,6144,16384,110208
+net.tcp.buffersize.wifi=262144,524288,1048576,262144,524288,1048576
+net.tcp.buffersize.lte=262144,524288,3145728,262144,524288,3145728
+
+# Increase Wireless and TCP Speed
+net.core.optmem_max=20480
+net.core.rmem_default=262144
+net.core.rmem_max=1048576
+net.core.wmem_default=262144
+net.core.wmem_max=1048576
+net.unix.max_dgram_qlen=50
