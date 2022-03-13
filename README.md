@@ -8,6 +8,9 @@ Unlock Ultra Graphics, 120FPS, Change GPU Rendering, Change OpenGL ES Version, I
 * [Email](mailto:takeru.kageyuki@gmail.com)
 * [Telegram](https://t.me/takeru_kageyuki)
 
+## Donate
+* [Trakteer](https://trakteer.id/takeru-kageyuki/tip)
+
 ## Requirement
 * Magisk 23.0+
 
