@@ -65,7 +65,6 @@ touch.gestureMode=spots
 touch.orientation.calibration=interpolated 
 touch.orientationAware=0
 touch.pressure.calibration=amplitude
-touch.pressure.scale=0
 touch.pressure.scale=0.0001
 touch.size.bias=0
 touch.size.calibration=geometric
@@ -74,7 +73,6 @@ touch.size.scale=1
 touch.toolSize.areaScale=22
 touch.toolSize.isSummed=0
 video.accelerate.hw=1
-view.scroll_friction=0
 view.scroll_friction=0
 windowsmgr.max_events_per_sec=60
 
