@@ -15,7 +15,5 @@ More info about this module please read on mlplus official github.
 * https://github.com/kageyuki-takeru/mlplus
 
 ## Changelog
-**v3.1.0-Final (28)**
-* Add Cloudflare DNS (dns changer)
-* Fixed some minor bugs
-* Improve script execution (main script, volume key selector)
+**v3.1.1-Final (29)**
+* Remove some useless codes on Touch Improvement
