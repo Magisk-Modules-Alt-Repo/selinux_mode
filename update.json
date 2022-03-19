@@ -1,6 +1,6 @@
 {
-    "version": "3.1.1-Final",
-    "versionCode": 29,
-    "zipUrl": "https://github.com/kageyuki-takeru/mlplus/releases/download/stable/ML+_v3.1.1-Final.zip",
+    "version": "3.1.2-Final",
+    "versionCode": 30,
+    "zipUrl": "https://github.com/kageyuki-takeru/mlplus/releases/download/stable/ML+_v3.1.2-Final.zip",
     "changelog": "https://raw.githack.com/kageyuki-takeru/mlplus/main/changelog.md"
 }
