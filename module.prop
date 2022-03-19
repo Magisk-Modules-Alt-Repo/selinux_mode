@@ -1,7 +1,7 @@
 id=mlplus
 name=ML+
-version=3.1.1-Final
-versionCode=29
+version=3.1.2-Final
+versionCode=30
 author=Taka🌿
 description=Unlock Ultra Graphics, 120FPS, Change GPU Rendering, Change OpenGL ES Version, Improve Internet Connection, Touch Improvement, etc for Mobile Legends: Bang Bang.
 updateJson=https://raw.githack.com/kageyuki-takeru/mlplus/main/update.json
