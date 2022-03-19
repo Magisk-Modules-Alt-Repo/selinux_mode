@@ -130,6 +130,7 @@ EXEC() {
     ui_print "Select Default DNS..."
     ui_print " 1. Cloudflare DNS"
     ui_print " 2. Google DNS"
+    ui_print " 3. Disable (Without DNS)"
     ui_print ""
     sleep 1
     
