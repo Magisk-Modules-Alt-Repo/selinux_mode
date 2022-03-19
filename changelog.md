@@ -15,5 +15,5 @@ More info about this module please read on mlplus official github.
 * https://github.com/kageyuki-takeru/mlplus
 
 ## Changelog
-**v3.1.1-Final (29)**
-* Remove some useless codes on Touch Improvement
+**v3.1.2-Final (30)**
+* Add Disable option on DNS Changer.
