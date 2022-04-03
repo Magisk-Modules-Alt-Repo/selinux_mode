@@ -2,7 +2,7 @@
 Addon that allows using volume keys to select options in the magisk installer.
 
 ## Instructions
-* Call `chooseport` whenever you want to call to use volume key check. The function returns true if user selected vol up and false if vol down. It will wait 60 seconds for input by default.
+* Call `chooseport` whenever you want to call to use volume key check. The function returns true if user selected volume up and false if volume down. It will wait 60 seconds for input by default.
    * Example:
   ```sh
   if chooseport; then
