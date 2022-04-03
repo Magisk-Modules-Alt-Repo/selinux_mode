@@ -80,7 +80,7 @@ windowsmgr.max_events_per_sec=60
 debug.hwui.renderer
 ro.opengles.version
 
-# Disable Low RAM Mode
+# Disable Low RAM Flag
 ro.config.low_ram.threshold_gb=false
 ro.config.low_ram=false
 
