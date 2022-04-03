@@ -61,12 +61,16 @@ Unlock Mobile Legends Graphics and FPS at MAX Setting (Ultra + 120FPS) also Chan
    * Reduce touch delay, latency, etc.
 * RAM and VM Improvement
    * Reduce device lag, latency, and more when playing games, multitasking, etc.
+* Dalvik Optimization
+   * Improve device stability and keep the temperature from overheating.
 
 ## Notes
-This module will not work if you're using MagiskHide Props, DNS Changer, GPU Rendering Changer, OpenGL ES Version Changer, Touch Improvement, Internet Tweak, Virtual Memory Tweak, and RAM Management Tweak (Memory Improvement, Activity Manager Tweak, etc) or others similar modules with it.
+ML+ (FDE.AI Edition), if you're using FDE.AI, install this version to get better performance, otherwise if you're not using FDE.AI, don't install this version, or this module will not work correctly.
+
+This module will not work if you're using MagiskHide Props, DNS Changer, GPU Rendering Changer, OpenGL ES Version Changer, Touch Improvement, Internet Tweak, Virtual Memory Tweak, RAM Management Tweak (Memory Improvement, Activity Manager Tweak), and Dalvik Optimization or others similar modules with it.
 
 If you have a problem, maybe force close when opening an app, blackscreen, or something like that. It means your device doesn't support GPU Rendering, the solution is Reinstall ML+ module and change GPU Rendering which supports your device or use Default GPU Rendering (OpenGL ES) to solve the problem.
 
 Then, if there are other problems, maybe wifi error (no internet connection), slow internet speed, etc (about internet connection). The solution is to change DNS (Cloudflare DNS or Google DNS), choose which one is the best in your location, if you still have an error try disabling dns (without dns).
 
-> And also, this module works in all games not only MLBB, called for MLBB only because of the unlocker method and my personal use that made this module to play MLBB, thanks...
+> And also, this module works in all games not only for MLBB, called for MLBB only because of the unlocker method and my personal use that made this module to play MLBB, thanks...
