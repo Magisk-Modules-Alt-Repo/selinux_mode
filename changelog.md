@@ -9,11 +9,14 @@ Unlock Mobile Legends Graphics and FPS at MAX Setting (Ultra + 120FPS) also Chan
 * Internet Tweak
 * Touch Improvement
 * RAM and VM Improvement
+* Dalvik Optimization
 
 ## Notes
-More info about this module please read on mlplus official github.
+More info about this module please read on mlplus official repository.
 * https://github.com/kageyuki-takeru/mlplus
 
 ## Changelog
 **v3.1.2-Final (30)**
-* Add Disable option on DNS Changer.
+* Add Dalvik Optimization
+* Add Disable option on DNS Changer
+* Improve set permissions logic
