@@ -91,6 +91,10 @@ ro.vendor.qti.sys.fw.bservice_enable=true
 ro.vendor.qti.sys.fw.bservice_age=10000
 ro.vendor.qti.sys.fw.bservice_limit=128
 
+# Dalvik Optimization
+persist.sys.dalvik.hyperthreading=true
+persist.sys.dalvik.multithread=true
+
 # Add Support for IPV4 and IPV6
 persist.telephony.support.ipv4=1
 persist.telephony.support.ipv6=1
