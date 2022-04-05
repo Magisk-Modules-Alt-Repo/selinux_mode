@@ -95,7 +95,7 @@ ro.vendor.qti.sys.fw.bservice_limit=128
 persist.sys.dalvik.hyperthreading=true
 persist.sys.dalvik.multithread=true
 
-# Add Support for IPV4 and IPV6
+# Add Support for IPv4 and IPv6
 persist.telephony.support.ipv4=1
 persist.telephony.support.ipv6=1
 
