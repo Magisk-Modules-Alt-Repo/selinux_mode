@@ -165,28 +165,28 @@ EXEC() {
     ui_print "- Settings module"
     sed -i '/ro.product.brand/s/.*/ro.product.brand=Xiaomi/' $MODPATH/system.prop;
     sed -i '/ro.product.manufacturer/s/.*/ro.product.manufacturer=Xiaomi/' $MODPATH/system.prop;
-    sed -i '/ro.product.marketname/s/.*/ro.product.marketname=Mi 11 Ultra/' $MODPATH/system.prop;
-    sed -i '/ro.product.model/s/.*/ro.product.model=M2102K1G/' $MODPATH/system.prop;
+    sed -i '/ro.product.marketname/s/.*/ro.product.marketname=Xiaomi 12 Pro/' $MODPATH/system.prop;
+    sed -i '/ro.product.model/s/.*/ro.product.model=2201122G/' $MODPATH/system.prop;
     sed -i '/ro.product.odm.brand/s/.*/ro.product.odm.brand=Xiaomi/' $MODPATH/system.prop;
     sed -i '/ro.product.odm.manufacturer/s/.*/ro.product.odm.manufacturer=Xiaomi/' $MODPATH/system.prop;
-    sed -i '/ro.product.odm.marketname/s/.*/ro.product.odm.marketname=Mi 11 Ultra/' $MODPATH/system.prop;
-    sed -i '/ro.product.odm.model/s/.*/ro.product.odm.model=M2102K1G/' $MODPATH/system.prop;
+    sed -i '/ro.product.odm.marketname/s/.*/ro.product.odm.marketname=Xiaomi 12 Pro/' $MODPATH/system.prop;
+    sed -i '/ro.product.odm.model/s/.*/ro.product.odm.model=2201122G/' $MODPATH/system.prop;
     sed -i '/ro.product.product.brand/s/.*/ro.product.product.brand=Xiaomi/' $MODPATH/system.prop;
     sed -i '/ro.product.product.manufacturer/s/.*/ro.product.product.manufacturer=Xiaomi/' $MODPATH/system.prop;
-    sed -i '/ro.product.product.marketname/s/.*/ro.product.product.marketname=Mi 11 Ultra/' $MODPATH/system.prop;
-    sed -i '/ro.product.product.model/s/.*/ro.product.product.model=M2102K1G/' $MODPATH/system.prop;
+    sed -i '/ro.product.product.marketname/s/.*/ro.product.product.marketname=Xiaomi 12 Pro/' $MODPATH/system.prop;
+    sed -i '/ro.product.product.model/s/.*/ro.product.product.model=2201122G/' $MODPATH/system.prop;
     sed -i '/ro.product.system.brand/s/.*/ro.product.system.brand=Xiaomi/' $MODPATH/system.prop;
     sed -i '/ro.product.system.manufacturer/s/.*/ro.product.system.manufacturer=Xiaomi/' $MODPATH/system.prop;
-    sed -i '/ro.product.system.marketname/s/.*/ro.product.system.marketname=Mi 11 Ultra/' $MODPATH/system.prop;
-    sed -i '/ro.product.system.model/s/.*/ro.product.system.model=M2102K1G/' $MODPATH/system.prop;
+    sed -i '/ro.product.system.marketname/s/.*/ro.product.system.marketname=Xiaomi 12 Pro/' $MODPATH/system.prop;
+    sed -i '/ro.product.system.model/s/.*/ro.product.system.model=2201122G/' $MODPATH/system.prop;
     sed -i '/ro.product.system_ext.brand/s/.*/ro.product.system_ext.brand=Xiaomi/' $MODPATH/system.prop;
     sed -i '/ro.product.system_ext.manufacturer/s/.*/ro.product.system_ext.manufacturer=Xiaomi/' $MODPATH/system.prop;
-    sed -i '/ro.product.system_ext.marketname/s/.*/ro.product.system_ext.marketname=Mi 11 Ultra/' $MODPATH/system.prop;
-    sed -i '/ro.product.system_ext.model/s/.*/ro.product.system_ext.model=M2102K1G/' $MODPATH/system.prop;
+    sed -i '/ro.product.system_ext.marketname/s/.*/ro.product.system_ext.marketname=Xiaomi 12 Pro/' $MODPATH/system.prop;
+    sed -i '/ro.product.system_ext.model/s/.*/ro.product.system_ext.model=2201122G/' $MODPATH/system.prop;
     sed -i '/ro.product.vendor.brand/s/.*/ro.product.vendor.brand=Xiaomi/' $MODPATH/system.prop;
     sed -i '/ro.product.vendor.manufacturer/s/.*/ro.product.vendor.manufacturer=Xiaomi/' $MODPATH/system.prop;
-    sed -i '/ro.product.vendor.marketname/s/.*/ro.product.vendor.marketname=Mi 11 Ultra/' $MODPATH/system.prop;
-    sed -i '/ro.product.vendor.model/s/.*/ro.product.vendor.model=M2102K1G/' $MODPATH/system.prop;
+    sed -i '/ro.product.vendor.marketname/s/.*/ro.product.vendor.marketname=Xiaomi 12 Pro/' $MODPATH/system.prop;
+    sed -i '/ro.product.vendor.model/s/.*/ro.product.vendor.model=2201122G/' $MODPATH/system.prop;
     sleep 2
     
     ui_print "- Set permissions"
