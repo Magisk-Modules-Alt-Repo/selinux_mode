@@ -4,5 +4,5 @@ version=1
 versionCode=1
 author=alicee98
 description=Change Your Selinux Mode
-updateJson=https://raw.githubusercontent.com/alicee98/Selinux_HostUpdate/main/update.json
+updateJson=https://github.com/alicee98/Selinux_Changer/blob/main/update.json
 support=https://t.me/yudhapunyasaha
