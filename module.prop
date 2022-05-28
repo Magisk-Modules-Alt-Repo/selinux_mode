@@ -1,7 +1,8 @@
-id=mlplus
-name=ML+
-version=3.1.2-Final
-versionCode=30
-author=Taka🌿
-description=Unlock Ultra Graphics, 120FPS, Change GPU Rendering, Change OpenGL ES Version, Improve Internet Connection, Touch Improvement, etc for Mobile Legends: Bang Bang.
-updateJson=https://raw.githack.com/kageyuki-takeru/mlplus/main/update.json
+id=selinux_mode
+name=Selinux Mode Changer
+version=1
+versionCode=1
+author=alicee98
+description=Change Your Selinux Mode
+updateJson=https://raw.githubusercontent.com/alicee98/Selinux_HostUpdate/main/update.json
+support=https://t.me/yudhapunyasaha
