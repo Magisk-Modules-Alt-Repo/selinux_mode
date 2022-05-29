@@ -18,7 +18,6 @@ EXEC() {
     unzip -o "$ZIPFILE" module.prop -d $MODPATH >&2
     unzip -o "$ZIPFILE" post-fs-data.sh -d $MODPATH >&2
     unzip -o "$ZIPFILE" service.sh -d $MODPATH >&2
-    unzip -o "$ZIPFILE" system.prop -d $MODPATH >&2
     unzip -o "$ZIPFILE" uninstall.sh -d $MODPATH >&2
     ui_print ""
     sleep 1.5
@@ -45,14 +44,15 @@ EXEC() {
     done
     ui_print "Selected: $A"
     case $A in
-        1 ) TEXT1="Selinux Enforcing"; sed -i '/ro.build.selinux/s/.*/ro.build.selinux=1/' $MODPATH/system.prop;;
-        2 ) TEXT1="Selinux Permissive"; sed -i '/ro.build.selinux/s/.*/ro.build.selinux=2/' $MODPATH/system.prop;;
+        1 ) TEXT1="Selinux Enforcing"; sed -i '/setenforce/s/.*/setenforce 1/' $MODPATH/post-fs-data.sh;;
+        2 ) TEXT1="Selinux Permissive"; sed -i '/setenforce/s/.*/setenforce 0/' $MODPATH/post-fs-data.sh;;
         esac
     ui_print "- $TEXT1"
     ui_print ""
     sleep 1
     
     rm -rf $MODPATH/addon
+    rm -rf $MODPATH/service.sh
 }
 
 if [ ! "$SKIPUNZIP" = "0" ]; then
