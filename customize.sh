@@ -9,6 +9,16 @@ PRINT() {
     sleep 1.5
 }
 
+PRINT() {
+    ui_print "Warning!"
+    ui_print "• Before Change Your Selinux Mode, Please Read This Warning Message!"
+    ui_print "• Permissive Selinux Maybe Will Make Your Banking App Cant Opened. and Make Your Game Account Got 3rd Party Banned."
+    ui_print "• Do With Your Risk!"
+    ui_print "• Immediately Uninstall This Module If You Don't Want Problems To Happen!"
+    ui_print ""
+    sleep 2
+}
+
 EXEC() {
     ui_print "Installing..."
     sleep 1.5
@@ -52,7 +62,16 @@ EXEC() {
     sleep 1
     
     rm -rf $MODPATH/addon
-    rm -rf $MODPATH/service.sh
+}
+
+PRINT() {
+    ui_print "Installing Cache Cleaner"
+    ui_print "• Its Safe. Dont Worry With Your Device Or Data Apps"
+    ui_print "• Set Up The Cache Cleaner"
+    ui_print "• Its Will Running When Your Phone Booting"
+    ui_print "• Enjoy!!"
+    ui_print ""
+    sleep 1
 }
 
 if [ ! "$SKIPUNZIP" = "0" ]; then

@@ -10,7 +10,7 @@ rm -rf $MODPATH/README.md
 rm -rf $MODPATH/LICENSE
 rm -rf $MODPATH/service.sh
 
-#Cache Cleaner
+# Cache Cleaner
 rm -rf /storage/emulated/0/Android/data/*/cache/*
 rm -rf /data/data/*/cache/*
 rm -rf /data/dalvik-cache/arm/*
