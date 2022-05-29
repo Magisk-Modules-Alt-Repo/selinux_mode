@@ -14,7 +14,7 @@
 * Change The Methode From system.prop To post-fs-data.sh
 
 **Telegram Channel Text**
-* Changelog Text : [Here](https://t.me/yudhapunyasaha/232)
+* Changelog Text : [Here](https://t.me/yudhapunyasaha/235)
 
 **Warning !!**
 * Before Change Your Selinux Mode, Please Read This Warning Message!
