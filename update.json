@@ -1,6 +1,6 @@
 {
-    "version": "1",
-    "versionCode": 1,
-    "zipUrl": "https://github.com/alicee98/Selinux_HostUpdate/releases/download/V1/Selinux.Changer.zip",
-    "changelog": "https://raw.githubusercontent.com/alicee98/Selinux_HostUpdate/main/changelog.md"
+    "version": "2",
+    "versionCode": 2,
+    "zipUrl": "https://github.com/alicee98/Selinux_Changer/releases/download/V2/Selinux-Changer.zip",
+    "changelog": "https://raw.githubusercontent.com/alicee98/Selinux_Changer/main/changelog.md"
 }
