@@ -17,6 +17,10 @@
 * Remove Magisk Log Remover
 * Update The Host To Latest Version
 
+**2.5.2**
+* Remove Cache Cleaner Because Not the Main Function of This Module
+* Maybe There Will Be Many Update Versions To Come, Because This Module Need More Fix.
+
 **Telegram Channel Text**
 * Changelog Text : [Here](https://t.me/yudhapunyasaha/232)
 
