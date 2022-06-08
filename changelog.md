@@ -22,7 +22,7 @@
 * Maybe There Will Be Many Update Versions To Come, Because This Module Need More Fix.
 
 **Telegram Channel Text**
-* Changelog Text : [Here](https://t.me/yudhapunyasaha/232)
+* Changelog Text : [Here](https://t.me/gtwprojectx/8)
 
 **Warning !!**
 * Before Change Your Selinux Mode, Please Read This Warning Message!
