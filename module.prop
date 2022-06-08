@@ -1,8 +1,8 @@
 id=selinux_mode
 name=Selinux Mode Changer
-version=2.5.2
-versionCode=2.5.2
-author=alicee98
+version=2.6
+versionCode=2.6
+author=alicee981
 description=Change Your Selinux Mode
-support=https://t.me/yudhapunyasaha
+support=https://t.me/gtwprojectx
 updateJson=https://raw.githubusercontent.com/alicee98/Selinux_Changer/main/update.json

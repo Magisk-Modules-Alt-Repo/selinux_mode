@@ -27,7 +27,6 @@ EXEC() {
     unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
     unzip -o "$ZIPFILE" module.prop -d $MODPATH >&2
     unzip -o "$ZIPFILE" post-fs-data.sh -d $MODPATH >&2
-    unzip -o "$ZIPFILE" service.sh -d $MODPATH >&2
     unzip -o "$ZIPFILE" uninstall.sh -d $MODPATH >&2
     ui_print ""
     sleep 1.5

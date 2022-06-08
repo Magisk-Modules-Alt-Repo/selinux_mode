@@ -21,6 +21,10 @@
 * Remove Cache Cleaner Because Not the Main Function of This Module
 * Maybe There Will Be Many Update Versions To Come, Because This Module Need More Fix.
 
+**2.6**
+* Compressed The Size Of Zip
+* Removed Some Files
+
 **Telegram Channel Text**
 * Changelog Text : [Here](https://t.me/gtwprojectx/17)
 
