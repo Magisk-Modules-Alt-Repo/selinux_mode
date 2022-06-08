@@ -26,7 +26,7 @@
 * Removed Some Files
 
 **Telegram Channel Text**
-* Changelog Text : [Here](https://t.me/gtwprojectx/17)
+* Changelog Text : [Here](https://t.me/gtwprojectx/22)
 
 **Warning !!**
 * Before Change Your Selinux Mode, Please Read This Warning Message!
