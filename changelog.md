@@ -25,6 +25,9 @@
 * Compressed The Size Of Zip
 * Removed Some Files
 
+**2.6.1**
+* Fix Problem When You Want Update This Module From MagiskApp
+
 **Telegram Channel Text**
 * Changelog Text : [Here](https://t.me/gtwprojectx/22)
 

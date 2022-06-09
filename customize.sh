@@ -1,22 +1,19 @@
 SKIPUNZIP=1
 
 PRINT() {
-    ui_print "Selinux Changer Mode By Yudha"
-    ui_print "• Worked For Audio Mod Like Dolby Atmos Or ViperFX,"
-    ui_print "• With 2 Mode Selinux Changer"
-    ui_print "• Change Your Selinux Mode."
-    ui_print ""
-    sleep 1.5
-}
-
-PRINT() {
     ui_print "Warning!"
     ui_print "• Before Change Your Selinux Mode, Please Read This Warning Message!"
     ui_print "• Permissive Selinux Maybe Will Make Your Banking App Cant Opened. and Make Your Game Account Got 3rd Party Banned."
     ui_print "• Do With Your Risk!"
     ui_print "• Immediately Uninstall This Module If You Don't Want Problems To Happen!"
     ui_print ""
-    sleep 2
+    sleep 4
+    ui_print "Selinux Changer Mode By Yudha"
+    ui_print "• Worked For Audio Mod Like Dolby Atmos Or ViperFX,"
+    ui_print "• With 2 Mode Selinux Changer"
+    ui_print "• Change Your Selinux Mode."
+    ui_print ""
+    sleep 1
 }
 
 EXEC() {
@@ -61,16 +58,11 @@ EXEC() {
     sleep 1
     
     rm -rf $MODPATH/addon
-}
-
-PRINT() {
-    ui_print "Installing Cache Cleaner"
-    ui_print "• Its Safe. Dont Worry With Your Device Or Data Apps"
-    ui_print "• Set Up The Cache Cleaner"
-    ui_print "• Its Will Running When Your Phone Booting"
-    ui_print "• Enjoy!!"
-    ui_print ""
-    sleep 1
+    rm -rf $MODPATH/update.json
+    rm -rf $MODPATH/changelog.md
+    rm -rf $MODPATH/README.md
+    rm -rf $MODPATH/LICENSE
+    rm -rf $MODPATH/service.sh
 }
 
 if [ ! "$SKIPUNZIP" = "0" ]; then
