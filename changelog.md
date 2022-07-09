@@ -32,7 +32,7 @@
 * Fix Update.
 
 **Telegram Channel Text**
-* Changelog Text : [Here](https://t.me/gtwprjkt/22)
+* Changelog Text : [Here](https://t.me/gtwprjkt/6)
 
 **Warning !!**
 * Before Change Your Selinux Mode, Please Read This Warning Message!
