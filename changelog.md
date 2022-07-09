@@ -28,8 +28,11 @@
 **2.6.1**
 * Fix Problem When You Want Update This Module From MagiskApp
 
+**2.6.2**
+* Fix Update.
+
 **Telegram Channel Text**
-* Changelog Text : [Here](https://t.me/gtwprojectx/22)
+* Changelog Text : [Here](https://t.me/gtwprjkt/22)
 
 **Warning !!**
 * Before Change Your Selinux Mode, Please Read This Warning Message!
