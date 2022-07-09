@@ -1,9 +1,9 @@
 id=selinux_mode
 name=Selinux Mode Changer
-version=2.6.1
-versionCode=261
-author=alicee98
+version=2.6.2
+versionCode=262
+author=yudhased
 description=Change Your Selinux Mode
 updateJson=https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/main/update.json
-support=https://t.me/gtwprojectx
+support=https://t.me/gtwprjkt
 donate=https://www.paypal.com/paypalme/271820
