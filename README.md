@@ -1,7 +1,7 @@
 # Selinux Changer Module
 
 **Credits**
-* By : [@alicee98 aka Yudha](https://t.me/yudhased)
+* By : [@alicee98](https://t.me/yudhased)
 * Support Channel : [GTW Project](https://t.me/gtwprjkt)
 * Changelog With Feature List : [Here](https://github.com/Magisk-Modules-Alt-Repo/selinux_mode/main/changelog.md)
 
